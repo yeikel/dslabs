@@ -17,3 +17,4 @@ exclude:
 
 sass:
   style: :compressed
+  sourcemap: development
