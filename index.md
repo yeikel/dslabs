@@ -119,5 +119,10 @@ Over the years, our intrepid UW TAs have led discussion sections as
 introductions to the lab assignments. The slides they created have a number of
 useful tips and implementation strategies, based on their own experience. While
 the lab `README`s are complete and address most of the major pitfalls, we
-provide the discussion slides here as an example of the kinds of things you
-might want to tell students.
+provide [the discussion slides from a recent iteration of the
+course][discussion-slides] as an example of the kinds of things you might want
+to discuss with students about the labs.
+
+
+
+[discussion-slides]: {{ '452 Discussion Section Slides.pdf' | relative_url }}
