@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - gh-pages-source
+      - master
 
 jobs:
   github-pages:
